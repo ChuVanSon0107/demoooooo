@@ -41,5 +41,7 @@ int main(){
         printf("\n");
     }
     printf("%d\n",dp[n][S]);
+
+
     return 0;
 }
